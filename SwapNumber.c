@@ -5,7 +5,7 @@ void swap(int *a, int *b) {
     *a = *b;
     *b = temp;
 }
-
+//starting main function
 int main() {
     int num1, num2;
 
